@@ -4,8 +4,8 @@
 An app that honors the DBC Tradition to tell someone about themselves. Users will be able to share something about you, and send it to you
 
 ### Features
-- *Tell Me Something About Myself* This feature allows a user to request others to tell them something about themself. other users are notified and taken through the process of sending an affirmation back, either anonymously, or with the senders info.
-- *Me-Jar* This feature allows a user to get an affirmation out, as if they have a jar of affirmations to pull from. something another person has sent, to reflect on, and brighten their day.
+- **Tell Me Something About Myself** : This feature allows a user to request others to tell them something about themself. other users are notified and taken through the process of sending an affirmation back, either anonymously, or with the senders info.
+- **Me-Jar** : This feature allows a user to get an affirmation out, as if they have a jar of affirmations to pull from. something another person has sent, to reflect on, and brighten their day.
 
 <!-- ### ScreenShots
 ![Image title](imagelink.jpg)
